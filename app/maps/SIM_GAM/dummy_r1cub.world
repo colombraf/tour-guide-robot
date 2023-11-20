@@ -87,7 +87,7 @@
 
     <model name="r1Cub">
       <include>
-        <uri>model://r1CubGazeboV1</uri>
+        <uri>model://r1CubGazeboV1_fixed</uri>
       </include>
     </model>
     
